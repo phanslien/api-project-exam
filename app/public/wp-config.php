@@ -38,6 +38,7 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+define( 'HEADLESS_MODE_CLIENT_URL', 'https://stately-gumption-27058f.netlify.app/' );
 
 define('JWT_AUTH_SECRET_KEY', 'your-top-secret-key');
 define('JWT_AUTH_CORS_ENABLE', true);
